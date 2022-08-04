@@ -6,7 +6,7 @@ subtitle: PhD in Computational Chemistry | Project Manger @ <a href='https://nov
 
 profile:
   align: right
-  image: cover-me.jpg
+  image: cover-me.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
 
