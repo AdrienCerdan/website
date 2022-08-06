@@ -12,27 +12,26 @@
   type: time_table
   contents:
     - title: PhD in Computational and Theoretical Chemistry
-      institution: University of Strasbourg, Strasbourg, Franced
+      institution: University of Strasbourg, Strasbourg, France
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: <a href='http://www.theses.fr/2019STRAF006'><u>Exploring synaptic transmission and regulation in ionotropic receptors by molecular dynamics simulations and computational electrophysiology</u></a>
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Molecular dynamics
+            - Pentameric ligand-gated ion channels
+            - Computational electrophysiology
+            - Allostery
     - title: Master in Chemistry and Chemoinformatics
       institution: Faculté de Chimie de Strasbourg, Strasbourg, France
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
-    - title: Licence in Physical Chemisrtys
+        - Ligand / Structure-based drug discovery
+        - Machine learning
+    - title: Licence in Physical Chemistry
       institution: Faculté de Chimie de Strasbourg, Strasbourg, France
       year: 2013
       description:
-        - Description 1.
-        - Description 2.
+
 
 - title: Experience
   type: time_table
@@ -41,38 +40,44 @@
       institution: NovAliX, Strasbourg, France
       year: 2022-current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Ligand / Structure-based drug discovery
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Application to drug discovery projects
+            - Developement of Molecular Dynamics pipelines
+        - title: Machine Learning / Deep Learning
+          contents:
+            - Application to <i>de-novo</i> molecular design
+            - Application to molecular property prediction
     - title: Post Doc
       institution: Institut Pasteur, Paris, France
       year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Developement of Free-Energy Pertubation (FEP) frameworks
+        - Understanding allosteric mechanisms in ion channels
+        - Computational electrophysiology
+
     - title: PhD student
-      institution: University of Strasbourgr, Strasbourg, France
+      institution: University of Strasbourg, Strasbourg, France
       year: 2015-2019
       description:
-        - Description 1.
-        - Description 2.
+        - Understanding allosteric mechanisms in ion channels
+        - Computational electrophysiology
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Molecular Dynamics
       items:
-        - Description 1.
-        - Description 2.
+        - Application to biologicaly relevant systems
+        - Developement of binding free-energy calculations
+    - title: Machine Learning / Deep Learning
+      items:
+        - Application to drug discovery
+    - title: Pentameric Ligand-Gated Ion Channels
+      items:
+        - Function, modulation and allostery
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Road, trail, mountain and long distance running. Video games. Guitar.
