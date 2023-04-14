@@ -36,9 +36,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Computational Chemist Scientist
+      institution: <a href='https://servier.com/'>Servier</a>, Paris-Saclay, France
+      year: 2023-current
     - title: Project Manager Chemoinformatics and Modeling
       institution: <a href='https://novalix.com'>NovAliX</a>, Strasbourg, France
-      year: 2022-current
+      year: 2022-2023
       description:
         - title: Ligand / Structure-based drug discovery
           contents:
