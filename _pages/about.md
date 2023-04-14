@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Computational Chemistry  ||  Project Manager @ <a href='https://novalix.com'>NovAliX</a>, France.
+subtitle: PhD in Computational Chemistry  ||  Scientist @ <a href='https://servier.com/'>Servier</a>, France.
 
 profile:
   align: right
