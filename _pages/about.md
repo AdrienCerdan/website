@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD in Computational Chemistry  ||  Scientist @ <a href='https://servier.com/'>Servier</a>, France.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cover-me.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -14,12 +14,16 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ciao!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a curious computational chemist, geek, and avid runner. My interest in Science is wide but I am naturally keen on neurosciences in general. Professionally wise, I have a deep enthusiasm for drug discovery and all associated (computational) techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+{% include figure.liquid path="assets/img/robot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+I was formally trained to ligand-based approaches through machine learning and Chemoinformatics but I am currently following the hype for deep learning. During my Ph.D. training and postdoc, I eventually pursued Molecular Dynamics expertise, notably examining protein function, and allosteric modulation by small molecules. Specifically, I taught myself to computational electrophysiology for probing functions in ion channel structures. From that time, I got addicted to brain receptors' structural and functional characterization.
+
+In my free time, I mostly train for any kind of long-distance running. During the (few) snowy winters I practice snowboard touring, and otherwise I play some video games (competitively).
