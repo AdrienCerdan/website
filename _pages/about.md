@@ -19,6 +19,8 @@ Ciao!
 
 I am a curious computational chemist, geek, and avid runner. My interest in Science is wide but I am naturally keen on neurosciences in general. Professionally wise, I have a deep enthusiasm for drug discovery and all associated (computational) techniques.
 
+<img src="../assets/img/robot.jpg" alt="Image description" width="500" height="300">
+
 I was formally trained to ligand-based approaches through machine learning and Chemoinformatics but I am currently following the hype for deep learning. During my Ph.D. training and postdoc, I eventually pursued Molecular Dynamics expertise, notably examining protein function, and allosteric modulation by small molecules. Specifically, I taught myself to computational electrophysiology for probing functions in ion channel structures. From that time, I got addicted to brain receptors' structural and functional characterization.
 
 In my free time, I mostly train for any kind of long-distance running. During the (few) snowy winters I practice snowboard touring, and otherwise I play some video games (competitively).
